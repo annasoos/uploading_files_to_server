@@ -1,3 +1,4 @@
+![Form](https://user-images.githubusercontent.com/83576776/130459556-5831149a-33ba-4af9-ae09-261a50882044.png)
 # Uploading files to server
 
 - Simple frontend-backend communication practice, with a registration form and a drag&drop file upload possibility.
